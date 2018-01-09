@@ -1,0 +1,11 @@
+table {
+    cursor: pointer;
+    width:21rem !important;
+    margin: 0 auto;
+}
+td {
+    height: 7em;
+    width:30%;
+    line-height: 7rem;
+    padding: 0 !important;
+}
